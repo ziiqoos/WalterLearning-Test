@@ -1,0 +1,13 @@
+.counter {
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 2px solid #1C6EA4;
+    border-radius: 10px;
+    width: 200px;
+
+}
+
+.value {
+    font-size: 30px;
+    color: white;
+}
