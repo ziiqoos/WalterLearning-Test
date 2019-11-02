@@ -42,6 +42,7 @@ class Countdown extends Component {
             <div className={"counter"} style={{backgroundColor: this.state.color}}>
                 <span className={"value"}>{this.state.counter}</span>
             </div>
+
         );
     }
 }
